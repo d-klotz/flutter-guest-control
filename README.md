@@ -1,4 +1,4 @@
-# people_counter
+# guest_counter
 
 This app counts the number of people in a restaurant
 
