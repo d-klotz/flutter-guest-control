@@ -1,4 +1,4 @@
-# guest_counter
+# guest_control
 
 This app counts the number of people in a restaurant
 
